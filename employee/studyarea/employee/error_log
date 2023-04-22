@@ -1,0 +1,5 @@
+[01-Feb-2023 07:12:30 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/manvaasa/public_html/portal/studyarea/employee/db.php on line 9
+[01-Feb-2023 16:47:33 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/manvaasa/public_html/portal/studyarea/employee/db.php on line 9
+[02-Feb-2023 07:46:42 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/manvaasa/public_html/portal/studyarea/employee/db.php on line 9
+[02-Feb-2023 08:00:48 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/manvaasa/public_html/portal/studyarea/employee/db.php on line 9
+[02-Feb-2023 21:47:45 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/manvaasa/public_html/portal/studyarea/employee/db.php on line 9

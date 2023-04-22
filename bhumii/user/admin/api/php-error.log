@@ -1,0 +1,47 @@
+[30-Nov-2022 20:51:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::set_charset() in /home4/manvaasa/public_html/bhumi/admin/api/config.php:29
+Stack trace:
+#0 /home4/manvaasa/public_html/bhumi/admin/api/v2.php(16): Connection->__construct()
+#1 {main}
+  thrown in /home4/manvaasa/public_html/bhumi/admin/api/config.php on line 29
+[27-Mar-2023 22:41:49 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'manvaasa_bhumi' in C:\xampp2\htdocs\user\admin\api\config.php:25
+Stack trace:
+#0 C:\xampp2\htdocs\user\admin\api\config.php(25): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\xampp2\htdocs\user\admin\api\v1.php(16): Connection->__construct()
+#2 {main}
+  thrown in C:\xampp2\htdocs\user\admin\api\config.php on line 25
+[27-Mar-2023 22:41:50 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'manvaasa_bhumi' in C:\xampp2\htdocs\user\admin\api\config.php:25
+Stack trace:
+#0 C:\xampp2\htdocs\user\admin\api\config.php(25): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\xampp2\htdocs\user\admin\api\v1.php(16): Connection->__construct()
+#2 {main}
+  thrown in C:\xampp2\htdocs\user\admin\api\config.php on line 25
+[27-Mar-2023 22:41:59 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'manvaasa_bhumi' in C:\xampp2\htdocs\user\admin\api\config.php:25
+Stack trace:
+#0 C:\xampp2\htdocs\user\admin\api\config.php(25): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\xampp2\htdocs\user\admin\api\v1.php(16): Connection->__construct()
+#2 {main}
+  thrown in C:\xampp2\htdocs\user\admin\api\config.php on line 25
+[27-Mar-2023 22:45:19 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'bhumi' in C:\xampp2\htdocs\user\admin\api\config.php:25
+Stack trace:
+#0 C:\xampp2\htdocs\user\admin\api\config.php(25): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\xampp2\htdocs\user\admin\api\v1.php(16): Connection->__construct()
+#2 {main}
+  thrown in C:\xampp2\htdocs\user\admin\api\config.php on line 25
+[27-Mar-2023 22:45:48 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'bhumi' in C:\xampp2\htdocs\user\admin\api\config.php:25
+Stack trace:
+#0 C:\xampp2\htdocs\user\admin\api\config.php(25): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\xampp2\htdocs\user\admin\api\v1.php(16): Connection->__construct()
+#2 {main}
+  thrown in C:\xampp2\htdocs\user\admin\api\config.php on line 25
+[27-Mar-2023 22:45:49 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'bhumi' in C:\xampp2\htdocs\user\admin\api\config.php:25
+Stack trace:
+#0 C:\xampp2\htdocs\user\admin\api\config.php(25): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\xampp2\htdocs\user\admin\api\v1.php(16): Connection->__construct()
+#2 {main}
+  thrown in C:\xampp2\htdocs\user\admin\api\config.php on line 25
+[27-Mar-2023 22:46:14 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'bhumi' in C:\xampp2\htdocs\user\admin\api\config.php:26
+Stack trace:
+#0 C:\xampp2\htdocs\user\admin\api\config.php(26): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\xampp2\htdocs\user\admin\api\v1.php(16): Connection->__construct()
+#2 {main}
+  thrown in C:\xampp2\htdocs\user\admin\api\config.php on line 26

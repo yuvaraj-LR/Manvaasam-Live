@@ -1,0 +1,22 @@
+
+#moving{
+  position: relative;
+  animation: myfirst 4s 2;
+  animation-direction: alternate;
+}
+
+@keyframes myfirst {
+  50%  {left: 0px; top: 0px;}
+  100%  {left: 300px;top: 0px;}
+}
+#moving{
+  position: relative;
+  animation: myfirst 4s 2;
+  animation-direction: alternate;
+}
+
+@keyframes myfirst {
+  50%  {left: 0px; top: 0px;}
+  100%  {left: 300px;top: 0px;}
+
+}
