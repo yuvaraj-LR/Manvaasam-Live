@@ -47,13 +47,13 @@
             </li>
 
             <li>
-                <a target="_blank" href="https://docs.google.com/spreadsheets/d/1HTaTExyCl4RCvR7ufBGFOaImGgyBAtJ7qPsLJeT-aM4/edit?usp=sharing"><i class="fa fa-group purple_color2"></i> <span>COMMUNITY</span>
+                <a target="_blank" href="https://docs.google.com/spreadsheets/d/1Sar5XJZmyjRMKqV5p61Hhqpa9EtkKU5Q/edit?usp=sharing&ouid=112714247812264427302&rtpof=true&sd=true"><i class="fa fa-group purple_color2"></i> <span>MANVAASAM CALENDAR</span>
                 </a>
             </li>
 
-            <li>
+            <!-- <li>
                 <a target="_blank" href="https://docs.google.com/spreadsheets/d/1igHelslcTp1xkGbmvWJO20tlkdUidxSe_LmC7KjJaYs/edit?usp=sharing"><i class="fa fa-bullhorn red_color"></i> <span>POSTER DASHBOARD</span>
-                </a>
+                </a> -->
             </li>
             <li>
                 <a target="_blank" href="https://mail.google.com/mail/u/0/#inbox"><i class="fa fa-envelope-o blue1_color"></i>
@@ -84,10 +84,10 @@
                 </a>
             </li>
 
-            <li>
+            <!-- <li>
                 <a target="_blank" href="https://manvaasam.com/Emp_Login/adminChat.php"><i class="fa fa-comments purple_color2"></i> <span>CHAT</span>
                 </a>
-            </li>
+            </li> -->
             <li>
                 <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScB_GcicEKjAgJJG5rKfSYCMLAIfmHtEJ1MF3lvRfEcxMBQcA/viewform"><i class="fa fa-bar-chart-o green_color"></i> <span>REIMBURSMENT</span>
                 </a>
